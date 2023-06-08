@@ -24,4 +24,4 @@ En este proyecto me enfoqué en construir la clonación de la interfaz de Google
 Aprender a utilizar las etiquetas de HTML5 y CSS3.
 
 ## 4. Link a demo
-Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](#)
+Aquí puedes visualizar mi proyecto terminado: [https://dorado-lamington-5c72a3.netlify.app](#)
